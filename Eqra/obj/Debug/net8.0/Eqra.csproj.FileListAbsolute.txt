@@ -147,3 +147,4 @@ C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\P
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\Asp.net Project - Project Eqra\Eqra\Eqra\obj\Debug\net8.0\Eqra.pdb
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\Asp.net Project - Project Eqra\Eqra\Eqra\obj\Debug\net8.0\Eqra.genruntimeconfig.cache
 C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\Asp.net Project - Project Eqra\Eqra\Eqra\obj\Debug\net8.0\ref\Eqra.dll
+C:\Users\Shefat\OneDrive - Daffodil International University\Skill Development\Project\Asp.net Project - Project Eqra\Eqra\Eqra\bin\Debug\net8.0\Newtonsoft.Json.dll
