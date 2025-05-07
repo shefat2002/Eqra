@@ -1,8 +1,9 @@
 using System.Text;
-using Eqra.Data;
-using Eqra.Repositories;
-using Eqra.Services;
-using Eqra.Services.Interfaces;
+using Eqra.Features.DataAccess.DBContext;
+using Eqra.Features.DataAccess.Repositories;
+using Eqra.Features.DataAccess.RepositoryInterface;
+using Eqra.Features.ServiceImplementation;
+using Eqra.Features.ServiceImplementation.ServiceInterface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -31,10 +32,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
         };
     });
-builder.Services.AddTransient<UserRepository>();
-
-
-
+builder.Services.AddTransient<IUserRepository, UserRepository>();
+builder.Services.AddTransient<IAuthService, AuthService>();
 
 
 builder.Services.AddControllers();

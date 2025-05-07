@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "Eqra.Controllers.AuthController",
+    "ContainingType": "Eqra.Features.Application.AuthController",
     "Method": "Register",
     "RelativePath": "api/Auth/register",
     "HttpMethod": "POST",

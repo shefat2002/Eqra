@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Eqra.Models
+namespace Eqra.Features.DomainModels
 {
     public class User
     {

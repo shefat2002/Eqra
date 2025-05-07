@@ -1,7 +1,7 @@
 ﻿using System.Security.Claims;
-using Eqra.Models;
+using Eqra.Features.DomainModels;
 
-namespace Eqra.Services.Interfaces
+namespace Eqra.Features.ServiceImplementation.ServiceInterface
 {
     public interface ITokenService
     {

@@ -1,7 +1,7 @@
-﻿using Eqra.Models;
+﻿using Eqra.Features.DomainModels;
 using Microsoft.EntityFrameworkCore;
 
-namespace Eqra.Data
+namespace Eqra.Features.DataAccess.DBContext
 {
     public class ApplicationDbContext : DbContext
     {

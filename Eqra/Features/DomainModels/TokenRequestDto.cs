@@ -1,4 +1,4 @@
-﻿namespace Eqra.Models
+﻿namespace Eqra.Features.DomainModels
 {
     public class TokenRequestDto
     {

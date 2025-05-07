@@ -1,6 +1,6 @@
-﻿namespace Eqra.Models
+﻿namespace Eqra.Features.DomainModels
 {
-    public class RegisterDto
+    public class LoginDto
     {
         public string Username { get; set; }
         public string Password { get; set; }

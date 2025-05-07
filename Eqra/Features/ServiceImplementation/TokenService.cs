@@ -2,11 +2,11 @@
 using System.Security.Claims;
 using System.Security.Cryptography;
 using System.Text;
-using Eqra.Models;
-using Eqra.Services.Interfaces;
+using Eqra.Features.DomainModels;
+using Eqra.Features.ServiceImplementation.ServiceInterface;
 using Microsoft.IdentityModel.Tokens;
 
-namespace Eqra.Services
+namespace Eqra.Features.ServiceImplementation
 {
     public class TokenService : ITokenService
     {
