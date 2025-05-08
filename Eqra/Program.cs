@@ -11,11 +11,12 @@ using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
+// Database connection string
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
-//Jwt 
+//Jwt token configuration
 builder.Services.AddScoped<ITokenService, TokenService>();
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
@@ -33,9 +34,16 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 
         };
     });
+
+//Add services for data access
 builder.Services.AddTransient<IUserRepository, UserRepository>();
+
+
+//Add services for authentication and authorization
 builder.Services.AddTransient<IUserLoginService, UserLoginService>();
 builder.Services.AddTransient<IUserRegisterService, UserRegisterService>();
+builder.Services.AddTransient<IForgetPasswordService, ForgetPasswordService>();
+builder.Services.AddTransient<IResetPasswordService, ResetPasswordService>();
 
 
 builder.Services.AddControllers();

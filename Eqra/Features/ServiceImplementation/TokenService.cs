@@ -37,7 +37,13 @@ namespace Eqra.Features.ServiceImplementation
             return new JwtSecurityTokenHandler().WriteToken(token);
         }
 
-
+        public string GeneratePasswordResetToken()
+        {
+            var randomNumber = new byte[32];
+            using var rng = RandomNumberGenerator.Create();
+            rng.GetBytes(randomNumber);
+            return Convert.ToBase64String(randomNumber);
+        }
 
 
 

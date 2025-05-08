@@ -23,8 +23,6 @@ namespace Eqra.Features.ServiceImplementation.AuthService
 
             var user = await _userRepository.GetByUsernameAsync(request.Username);
 
-            
-
             if (user != null)
             {
                 var hmac = new HMACSHA512(user.PasswordSalt);
