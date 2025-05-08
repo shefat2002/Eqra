@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Eqra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950aab081deecc9743998f2a1631e472b59599b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d080a15d0c4dfcde41c7f6aa6f14aebde49fae3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Eqra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Eqra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

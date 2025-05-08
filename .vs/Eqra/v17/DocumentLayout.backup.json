@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\serviceimplementation\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\serviceimplementation\\authservice\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\serviceimplementation\\authservice\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\serviceimplementation\\authservice\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\serviceimplementation\\authservice\\userregisterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\application\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,28 +19,28 @@
       "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\dataaccess\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\repositoryinterface\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\serviceimplementation\\serviceinterface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\serviceimplementation\\serviceinterface\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\serviceimplementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\serviceimplementation\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\dataaccess\\repositoryinterface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\repositoryinterface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\migrations\\20250507103704_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\migrations\\20250507103704_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\features\\dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|c:\\users\\shefat\\onedrive - daffodil international university\\skill development\\project\\asp.net project - project eqra\\eqra\\eqra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FC2C146-5540-44AE-A54C-52DEDF016CE6}|Eqra\\Eqra.csproj|solutionrelative:eqra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,43 +50,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250507103704_new.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Migrations\\20250507103704_new.cs",
-              "RelativeDocumentMoniker": "Eqra\\Migrations\\20250507103704_new.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Migrations\\20250507103704_new.cs",
-              "RelativeToolTip": "Eqra\\Migrations\\20250507103704_new.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserLoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService\\UserLoginService.cs",
+              "RelativeDocumentMoniker": "Eqra\\Features\\ServiceImplementation\\AuthService\\UserLoginService.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService\\UserLoginService.cs",
+              "RelativeToolTip": "Eqra\\Features\\ServiceImplementation\\AuthService\\UserLoginService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowB0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:37:04.324Z"
+              "WhenOpened": "2025-05-08T05:54:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegisterService.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService\\UserRegisterService.cs",
+              "RelativeDocumentMoniker": "Eqra\\Features\\ServiceImplementation\\AuthService\\UserRegisterService.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService\\UserRegisterService.cs",
+              "RelativeToolTip": "Eqra\\Features\\ServiceImplementation\\AuthService\\UserRegisterService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAEwBsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:47:37.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Eqra\\Features\\DataAccess\\RepositoryInterface\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\RepositoryInterface\\IGenericRepository.cs",
+              "RelativeToolTip": "Eqra\\Features\\DataAccess\\RepositoryInterface\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:20:33.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\TokenService.cs",
+              "RelativeDocumentMoniker": "Eqra\\Features\\ServiceImplementation\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\TokenService.cs",
+              "RelativeToolTip": "Eqra\\Features\\ServiceImplementation\\TokenService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:11:05.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\appsettings.json",
+              "RelativeDocumentMoniker": "Eqra\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\appsettings.json",
+              "RelativeToolTip": "Eqra\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-07T12:36:08.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Program.cs",
               "RelativeDocumentMoniker": "Eqra\\Program.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Program.cs",
               "RelativeToolTip": "Eqra\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCIAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:32:13.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\ServiceInterface\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Eqra\\Features\\ServiceImplementation\\ServiceInterface\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\ServiceInterface\\IAuthService.cs",
-              "RelativeToolTip": "Eqra\\Features\\ServiceImplementation\\ServiceInterface\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:29:27.291Z"
+              "WhenOpened": "2025-05-07T10:32:13.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,70 +137,46 @@
               "RelativeDocumentMoniker": "Eqra\\Features\\DataAccess\\RepositoryInterface\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\RepositoryInterface\\IUserRepository.cs",
               "RelativeToolTip": "Eqra\\Features\\DataAccess\\RepositoryInterface\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T13:18:42.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService.cs",
-              "RelativeDocumentMoniker": "Eqra\\Features\\ServiceImplementation\\AuthService.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\ServiceImplementation\\AuthService.cs",
-              "RelativeToolTip": "Eqra\\Features\\ServiceImplementation\\AuthService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAEwDEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T06:26:43.121Z",
+              "WhenOpened": "2025-05-06T13:18:42.828Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Eqra\\Features\\DataAccess\\Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Eqra\\Features\\DataAccess\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAASwAwAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:46:44.049Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Eqra\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "Eqra\\Features\\DataAccess\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wDEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:46:26.498Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\DBContext\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Eqra\\Features\\DataAccess\\DBContext\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\DataAccess\\DBContext\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Eqra\\Features\\DataAccess\\DBContext\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T05:45:13.323Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\Application\\AuthController.cs",
               "RelativeDocumentMoniker": "Eqra\\Features\\Application\\AuthController.cs",
               "ToolTip": "C:\\Users\\Shefat\\OneDrive - Daffodil International University\\Skill Development\\Project\\Asp.net Project - Project Eqra\\Eqra\\Eqra\\Features\\Application\\AuthController.cs",
               "RelativeToolTip": "Eqra\\Features\\Application\\AuthController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T05:44:53.416Z",
               "EditorCaption": ""

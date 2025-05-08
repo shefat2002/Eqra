@@ -1,5 +1,6 @@
 ﻿using Eqra.Features.DataAccess.DBContext;
 using Eqra.Features.DataAccess.RepositoryInterface;
+using Eqra.Features.DomainModels;
 using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
@@ -48,5 +49,7 @@ namespace WebApplicationProduct.Features.DataAccess.Repositories
         {
             return await _context.Set<T>().ToListAsync();
         }
+
+        
     }
 }

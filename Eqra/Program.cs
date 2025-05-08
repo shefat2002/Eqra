@@ -3,6 +3,7 @@ using Eqra.Features.DataAccess.DBContext;
 using Eqra.Features.DataAccess.Repositories;
 using Eqra.Features.DataAccess.RepositoryInterface;
 using Eqra.Features.ServiceImplementation;
+using Eqra.Features.ServiceImplementation.AuthService;
 using Eqra.Features.ServiceImplementation.ServiceInterface;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -33,7 +34,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 builder.Services.AddTransient<IUserRepository, UserRepository>();
-builder.Services.AddTransient<IAuthService, AuthService>();
+builder.Services.AddTransient<IUserLoginService, UserLoginService>();
+builder.Services.AddTransient<IUserRegisterService, UserRegisterService>();
 
 
 builder.Services.AddControllers();

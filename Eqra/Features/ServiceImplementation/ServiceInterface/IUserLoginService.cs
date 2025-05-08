@@ -2,8 +2,8 @@
 
 namespace Eqra.Features.ServiceImplementation.ServiceInterface
 {
-    public interface IAuthService
+    public interface IUserLoginService
     {
-        Task<object> CreateUserAsync(RegisterDto request);
+        Task<string> LoginUserAsync(LoginDto request);
     }
 }

@@ -1,5 +1,6 @@
 ﻿
 using System.Linq.Expressions;
+using Eqra.Features.DomainModels;
 
 namespace Eqra.Features.DataAccess.RepositoryInterface
 {

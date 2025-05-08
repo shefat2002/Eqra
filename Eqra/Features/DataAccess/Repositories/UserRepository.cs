@@ -15,5 +15,16 @@ namespace Eqra.Features.DataAccess.Repositories
         public UserRepository(ApplicationDbContext context) : base(context)
         {
         }
+        public async Task<User> GetByUsernameAsync(string username)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Username == username);
+            return user;
+        }
+        public async Task<bool> IsUserExist(string username)
+        {
+            var user = await _context.Users.AnyAsync(u => u.Username == username);
+            return user;
+        }
+
     }
 }

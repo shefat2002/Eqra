@@ -5,28 +5,25 @@ using Eqra.Features.DomainModels;
 using Eqra.Features.ServiceImplementation.ServiceInterface;
 using Newtonsoft.Json;
 
-namespace Eqra.Features.ServiceImplementation
+namespace Eqra.Features.ServiceImplementation.AuthService
 {
-    public class AuthService : IAuthService
+    public class UserRegisterService : IUserRegisterService
     {
         public readonly IUserRepository _userRepository;
         public readonly ITokenService _tokenService;
 
-        public AuthService(IUserRepository userRepository, ITokenService tokenService)
+        public UserRegisterService(IUserRepository userRepository, ITokenService tokenService)
         {
             _userRepository = userRepository;
             _tokenService = tokenService;
         }
+
         public async Task<object> CreateUserAsync(RegisterDto request)
         {
-            var users = await _userRepository.FindAllAsync();
-            var uniqueUserNames = new HashSet<string>();
-            foreach (var user in users)
-            {
-                uniqueUserNames.Add(user.Username);
-            }
+            var user = await _userRepository.IsUserExist(request.Username);
 
-            if (!uniqueUserNames.Add(request.Username))
+
+            if (user)
             {
                 var errorMessage = new { message = $"The user '{request.Username}' already exists." };
                 Console.WriteLine($"Returning Error Message: {JsonConvert.SerializeObject(errorMessage)}");
